@@ -60,7 +60,7 @@ Hi! My name is Micael Martins de Moura, I’m 20 years old and I’m from Brasí
 <br/>
 <br/>
 
-###  My Stats
+### My Stats
 
 <p>
   <img 
@@ -71,11 +71,25 @@ Hi! My name is Micael Martins de Moura, I’m 20 years old and I’m from Brasí
     src="https://github-readme-stats.vercel.app/api?username=Micael-Martins&show_icons=true&theme=github_dark&include_all_commits=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-Martins&theme=github_dark&layout=compact&custom_title=Tecnologias&include_all_commits=true" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-Martins&theme=github_dark&layout=compact&custom_title=Tecnologias&include_all_commits=true" 
   />
-
 </p>
+
+<br><br><br><br><br><br><br><br>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Micael-Martins/Micael-Martins/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Micael-Martins/Micael-Martins/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Micael-Martins/Micael-Martins/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+###
+
