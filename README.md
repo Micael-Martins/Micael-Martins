@@ -57,11 +57,11 @@ Hi! My name is Micael Martins de Moura, I’m 20 years old and I’m from Brasí
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
+<!-- 
 ### My Stats
-
 <p>
   <img 
     align="left" 
@@ -77,9 +77,9 @@ Hi! My name is Micael Martins de Moura, I’m 20 years old and I’m from Brasí
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-Martins&theme=github_dark&layout=compact&custom_title=Tecnologias&include_all_commits=true" 
   />
-</p>
+</p> -->
 
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ---
 
